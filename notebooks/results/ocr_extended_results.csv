@@ -1,0 +1,440 @@
+,type,TP,FP,FN,IOU,area,size
+0007-page1.png,gray,0.0,2.0,2.0,0.0,3134.0,3740000.0
+0008-page0.png,gray,0.0,2.0,2.0,0.0,3140.5,3740000.0
+0009-page0.png,gray,0.0,3.0,2.0,0.0,4343.5,3740000.0
+0011-page0.png,gray,0.0,2.0,15.0,0.0,3080.0,3740000.0
+0016-page1.png,gray,12.0,3.0,9.0,10.201740047313141,106651.5,3740000.0
+0018-page0.png,gray,0.0,2.0,2.0,0.0,3142.0,3740000.0
+01._2019-10-01_Email_RE_olo_4605707_Bickersgracht_201-1.png,black,10.0,6.0,0.0,8.642055558602006,1337538.5,8415000.0
+0516. RE Mails aan de wethouder (Dijksma)_ocr-1.png,black,13.0,1.0,0.0,10.17349617845238,161631.5,8703348.0
+0516. RE Mails aan de wethouder (Dijksma)_ocr-2.png,black,11.0,1.0,0.0,8.838751704311479,136765.5,8703348.0
+0527-1.png,black,12.0,8.0,6.0,10.318000336806252,282968.5,8415000.0
+0680. RE OD - toezicht bouw en woningtoezicht - Grimburgwal(1)_ocr-1.png,black,34.0,1.0,0.0,27.929851226262432,500765.5,8703348.0
+0680. RE OD - toezicht bouw en woningtoezicht - Grimburgwal(1)_ocr-3.png,black,30.0,2.0,0.0,24.800612471729618,533306.0,8703348.0
+0680. RE OD - toezicht bouw en woningtoezicht - Grimburgwal(1)_ocr-4.png,black,26.0,0.0,0.0,21.96517068763946,459009.5,8703348.0
+0680. RE OD - toezicht bouw en woningtoezicht - Grimburgwal(1)_ocr-6.png,black,2.0,1.0,0.0,1.5549590013897752,61488.5,8703348.0
+10. Verslag_Staf_Saskia_Groenewoud_1_april_2019 zonder markering-1.png,black,22.0,1.0,0.0,18.368927914874153,640442.0,8703348.0
+10. Verslag_Staf_Saskia_Groenewoud_1_april_2019 zonder markering-3.png,black,40.0,0.0,0.0,33.856141646141296,1979964.5,8703348.0
+122. overleg over Overlast en andere zaken-1.png,black,35.0,2.0,9.0,28.224452629718513,296580.5,8415000.0
+122. overleg over Overlast en andere zaken-3.png,black,11.0,1.0,5.0,9.120686361686834,158997.5,8415000.0
+127. RE VVR Brussel-1.png,black,12.0,0.0,2.0,9.821671705802174,319547.5,8699840.0
+130. mail 14-03-2016 uitbouw_Geredigeerd-1.png,black,17.0,0.0,0.0,13.978375013775038,196291.0,8696332.0
+19._overleg_4_over_afhandeling-email-2.png,black,35.0,0.0,0.0,28.89365769857043,244354.5,8696332.0
+19._overleg_4_over_afhandeling-email-3.png,black,14.0,0.0,0.0,11.334481896531887,114653.5,8696332.0
+20150508-2028-mail-lezing-aan-hopex_geredigeerd-1.png,black,11.0,1.0,3.0,9.797378259783024,302014.0,8696332.0
+20150615-1726-inzake-media-verz-int-beraad_geredi-1.png,black,11.0,2.0,9.0,9.535923720980481,1206617.0,8696332.0
+20180321_bijlage_1_bij_agenda_stuurgroep_conceptverslag_stuurgroep_13122017-1.png,black,23.0,0.0,0.0,19.438052548078286,1194635.0,8615648.0
+2019-07-30_Rapportage_van_bevindingen-4.png,no_annotation,0.0,4.0,0.0,0.0,1819353.5,8703348.0
+2019-12-20_wob-verzoek_erfpacht_telegraaf_geredigeerd-5.png,black,1.0,2.0,2.0,0.9651845637583892,73497.0,8696332.0
+20201112_notulen_overleg_Provincie_Staatsbosbeheer_docx43665056_3181b951cf-2.png,black,12.0,0.0,2.0,9.713697404594983,117220.0,8703348.0
+2021-03-09_FW_Annotatie_Evenementen-1.png,black,12.0,0.0,0.0,9.692708629148575,145658.0,8686416.0
+292. RE_ te plannen afspraak wethoud met vertegen_-2.png,black,41.0,1.0,2.0,35.163981375652924,610863.0,8686416.0
+30._B001_Aanvraag_D2022-01-025349-2.png,no_annotation,0.0,0.0,0.0,0.0,0.0,8699840.0
+34_Geredigeerd-1.png,black,21.0,0.0,0.0,17.83223531968143,299486.5,8699840.0
+34_Geredigeerd-2.png,black,3.0,0.0,1.0,2.4822414594522257,121842.5,8699840.0
+392._hol_met_magazine_mipim_2017-1.png,no_annotation,0.0,22.0,0.0,0.0,2969786.0,8396473.0
+392._hol_met_magazine_mipim_2017-10.png,no_annotation,0.0,14.0,0.0,0.0,4338847.0,8396473.0
+392._hol_met_magazine_mipim_2017-13.png,no_annotation,0.0,4.0,0.0,0.0,5384169.5,8396473.0
+392._hol_met_magazine_mipim_2017-2.png,no_annotation,0.0,5.0,0.0,0.0,1527237.0,8396473.0
+457._Bijlage_bij_nr._458_Themabijeenkomst_landschap_water_eco-15.png,no_annotation,0.0,3.0,0.0,0.0,2743866.0,9000000.0
+457._Bijlage_bij_nr._458_Themabijeenkomst_landschap_water_eco-22.png,no_annotation,0.0,5.0,0.0,0.0,1517606.0,9000000.0
+457._Bijlage_bij_nr._458_Themabijeenkomst_landschap_water_eco-24.png,no_annotation,0.0,32.0,0.0,0.0,1438508.0,9000000.0
+457._Bijlage_bij_nr._458_Themabijeenkomst_landschap_water_eco-3.png,no_annotation,0.0,1.0,0.0,0.0,1535940.0,9000000.0
+457._Bijlage_bij_nr._458_Themabijeenkomst_landschap_water_eco-42.png,no_annotation,0.0,35.0,0.0,0.0,4805655.0,9000000.0
+457._Bijlage_bij_nr._458_Themabijeenkomst_landschap_water_eco-44.png,no_annotation,0.0,6.0,0.0,0.0,3409175.0,9000000.0
+457._Bijlage_bij_nr._458_Themabijeenkomst_landschap_water_eco-47.png,no_annotation,0.0,2.0,0.0,0.0,4896622.5,9000000.0
+457._Bijlage_bij_nr._458_Themabijeenkomst_landschap_water_eco-49.png,no_annotation,0.0,35.0,0.0,0.0,4140537.5,9000000.0
+457._Bijlage_bij_nr._458_Themabijeenkomst_landschap_water_eco-50.png,no_annotation,0.0,35.0,0.0,0.0,4805655.0,9000000.0
+457._Bijlage_bij_nr._458_Themabijeenkomst_landschap_water_eco-7.png,no_annotation,0.0,8.0,0.0,0.0,2670716.0,9000000.0
+457._Bijlage_bij_nr._458_Themabijeenkomst_landschap_water_eco-8.png,no_annotation,0.0,7.0,0.0,0.0,2600804.0,9000000.0
+46. Organogram De Meervaart-1.png,no_annotation,0.0,11.0,0.0,0.0,457383.5,8686416.0
+462._Bijlage_bij_nr._463-3.png,black,19.0,0.0,2.0,14.558640520317818,130767.5,8699840.0
+462._Bijlage_bij_nr._463-4.png,black,13.0,0.0,0.0,10.098694405839371,70356.0,8699840.0
+48._RE_Ter_correctie_-_Nieuwsbrief_nr._2_Gebruik_van_code_2-3.png,gray,37.0,7.0,1.0,29.648601257632272,492364.5,8686416.0
+521. RE_ De Nieuwe Meervaart 17-10 -1.png,black,21.0,0.0,3.0,17.068670212251927,299787.0,8686416.0
+5_20171011_verslag_-_projectgroep_gemeente_fca_17_07_geanonimiseerd-3.png,black,11.0,1.0,1.0,9.06979690035008,176145.0,8703348.0
+68.b bericht over afspraak afstemming-1.png,black,30.0,2.0,4.0,24.473559745472947,349404.0,8696332.0
+68.c bericht over afspraak afstemming-1.png,black,27.0,0.0,0.0,22.711414917308606,325269.5,8696332.0
+751._FW_Stukken_voor_wethouderoverleg_15_januari-1.png,black,24.0,1.0,0.0,21.316449545372183,537442.5,8686416.0
+773. RE_ Flap college B&W de Meervaart 2_Geredigeerd-1.png,black,34.0,0.0,0.0,29.286496769120184,2425815.5,8686416.0
+89 FW_ Fietsparkeervoorziening Lijnbaansgracht - Orderbevestiging_2 -1.png,black,14.0,1.0,0.0,11.893623634818994,306596.0,8696332.0
+89 FW_ Fietsparkeervoorziening Lijnbaansgracht - Orderbevestiging_2 -2.png,black,15.0,0.0,0.0,12.433494947847027,304395.5,8696332.0
+89 FW_ Fietsparkeervoorziening Lijnbaansgracht - Orderbevestiging_2 -3.png,black,13.0,1.0,0.0,10.80168647001735,302223.0,8696332.0
+89 FW_ Fietsparkeervoorziening Lijnbaansgracht - Orderbevestiging_2 -6.png,black,16.0,0.0,0.0,13.415694484778328,282274.0,8696332.0
+89 FW_ Fietsparkeervoorziening Lijnbaansgracht - Orderbevestiging_2 -7.png,black,15.0,0.0,0.0,12.434792474957181,329003.5,8696332.0
+89 FW_ Fietsparkeervoorziening Lijnbaansgracht - Orderbevestiging_2 -9.png,no_annotation,0.0,0.0,0.0,0.0,0.0,8696332.0
+94.46 indeling terras-1.png,no_annotation,0.0,0.0,0.0,0.0,0.0,8703348.0
+944. korte terugkoppeling sessie team GO_Geredigeerd-1.png,black,14.0,0.0,2.0,11.625526245240694,710104.5,8686416.0
+Afschift besluit Wob-verzoek-10.png,black,1.0,0.0,0.0,0.9148580968280468,5106.0,8703348.0
+Afschift besluit Wob-verzoek-4.png,black,1.0,0.0,0.0,0.8633993743482794,5106.0,8703348.0
+Afschift besluit Wob-verzoek-6.png,black,2.0,0.0,0.0,1.8503708392531562,197100.0,8703348.0
+Afschift besluit Wob-verzoek-7.png,black,1.0,0.0,0.0,0.8693812797461661,5106.0,8703348.0
+Beantwoording wob-verzoek communicatie tussen PNH en gem. Heemstede inzake Cruquiusbrug Heemstede-3.png,gray,4.0,1.0,0.0,3.4791356589165914,131915.5,8699840.0
+Beantwoording wob-verzoek communicatie tussen PNH en gem. Heemstede inzake Cruquiusbrug Heemstede-5.png,no_annotation,0.0,0.0,0.0,0.0,0.0,8699840.0
+Beantwoording wob-verzoek communicatie tussen PNH en gem. Heemstede inzake Cruquiusbrug Heemstede-6.png,no_annotation,0.0,1.0,0.0,0.0,1466325.0,8703348.0
+beslisnota-bij-geannoteerde-agenda-formele-energieraad-28-03-1.png,gray,17.0,0.0,2.0,14.053451654068988,107614.0,8703348.0
+Beslissing-op-Wob-verzoek-inzake-subsidieaanvraag-Waalse-Water.html__concatenated-page3.png,black,7.0,0.0,0.0,6.502157386769268,57009.0,3866367.0
+Beslissing-op-Wob-verzoek-inzake-subsidieaanvraag-Waalse-Water.html__concatenated-page33.png,black,1.0,0.0,0.0,0.9736147757255936,34596.0,3868706.0
+Beslissing-op-Wob-verzoek-inzake-subsidieaanvraag-Waalse-Water.html__concatenated-page40.png,black,8.0,0.0,0.0,7.594776683640288,171213.0,3868706.0
+BESLUIT_Beslissing Stiath 060423_a_page001-001.png,border,5.0,0.0,0.0,4.62555958544352,122965.5,8699840.0
+BESLUIT_Beslissing Stiath 060423_b_page024-001.png,border,1.0,0.0,0.0,0.9388771553762254,15861.5,8699840.0
+Bestanden_18724268-3.png,black,4.0,1.0,0.0,3.368195988017064,926353.0,8700867.0
+bijlage 1 bij besluit op wob-verzoek over film de oost-1.png,black,11.0,2.0,2.0,9.68488655941407,300009.5,8745984.0
+bijlage 1 bij besluit op wob-verzoek over film de oost-15.png,black,3.0,0.0,0.0,2.6854754271449037,40217.5,8745984.0
+bijlage 1 bij besluit op wob-verzoek over film de oost-9.png,black,17.0,0.0,0.0,15.5007509029113,284152.5,8745984.0
+Bijlage-1.png,black,4.0,1.0,1.0,3.6407473745462013,100407.0,8685808.0
+Bijlage-11.png,no_annotation,0.0,13.0,0.0,0.0,41646.0,8671776.0
+Bijlage-14.png,no_annotation,0.0,7.0,0.0,0.0,90049.5,8681664.0
+Bijlage-3.png,black,2.0,1.0,0.0,1.5683023629605368,991257.5,8759820.0
+Bijlage-4.png,no_annotation,0.0,1.0,0.0,0.0,1525890.5,8661888.0
+Bijlage-6.png,no_annotation,0.0,1.0,0.0,0.0,1827426.0,8669304.0
+Bijlage-8.png,no_annotation,0.0,0.0,0.0,0.0,0.0,8676720.0
+Bijlage-9.png,black,4.0,0.0,0.0,3.538542021652533,43089.5,8705616.0
+bijlage-beslisnota-s-mirt-overzicht-2023-deltaprogramma-2023-en-geactualiseerde-spelregels-van-het-mirt-2.png,gray,0.0,0.0,2.0,0.0,0.0,8697360.0
+bijlage-beslisnota-s-mirt-overzicht-2023-deltaprogramma-2023-en-geactualiseerde-spelregels-van-het-mirt-4.png,gray,0.0,0.0,1.0,0.0,0.0,8697360.0
+bijlage-beslisnota-s-mirt-overzicht-2023-deltaprogramma-2023-en-geactualiseerde-spelregels-van-het-mirt-6.png,gray,2.0,0.0,0.0,1.7573205652864057,34078.0,8697360.0
+Bijlagen 2 bij Besluit op Woo-verzoek over uitvoering geven door de Staat aan het vonnis van de rechtbank van 14 april 2021-13.png,color,52.0,4.0,4.0,45.61748856179676,766957.5,8650554.0
+Bijlagen 2 bij Besluit op Woo-verzoek over uitvoering geven door de Staat aan het vonnis van de rechtbank van 14 april 2021-16.png,color,42.0,0.0,2.0,36.98456307859323,427804.5,8666000.0
+Bijlagen 2 bij Besluit op Woo-verzoek over uitvoering geven door de Staat aan het vonnis van de rechtbank van 14 april 2021-2.png,color,20.0,0.0,0.0,17.341442076051564,1028683.5,8670952.0
+Bijlagen 2 bij Besluit op Woo-verzoek over uitvoering geven door de Staat aan het vonnis van de rechtbank van 14 april 2021-20.png,color,27.0,9.0,0.0,24.003728785016197,1124955.0,8666000.0
+Bijlagen 2 bij Besluit op Woo-verzoek over uitvoering geven door de Staat aan het vonnis van de rechtbank van 14 april 2021-26.png,color,37.0,4.0,2.0,30.502597724281753,425684.5,8668476.0
+Bijlagen 2 bij Besluit op Woo-verzoek over uitvoering geven door de Staat aan het vonnis van de rechtbank van 14 april 2021-30.png,color,33.0,2.0,8.0,28.19610737782716,884671.5,8662500.0
+Bijlagen 2 bij Besluit op Woo-verzoek over uitvoering geven door de Staat aan het vonnis van de rechtbank van 14 april 2021-31.png,color,17.0,3.0,2.0,14.413115003371955,312019.0,8663524.0
+Bijlagen 2 bij Besluit op Woo-verzoek over uitvoering geven door de Staat aan het vonnis van de rechtbank van 14 april 2021-4.png,color,35.0,1.0,3.0,31.018607878569433,1202655.0,8658572.0
+Bijlagen 2 bij Besluit op Woo-verzoek over uitvoering geven door de Staat aan het vonnis van de rechtbank van 14 april 2021-8.png,color,10.0,0.0,0.0,9.191522928173764,2057233.0,8657550.0
+Bijlagen 2 bij Besluit op Woo-verzoek over uitvoering geven door de Staat aan het vonnis van de rechtbank van 14 april 2021_page003-001.png,color,19.0,3.0,4.0,17.298366033262138,1964410.0,8699840.0
+Bijlagen 2 bij Besluit op Woo-verzoek over uitvoering geven door de Staat aan het vonnis van de rechtbank van 14 april 2021_page016-001.png,color,29.0,2.0,1.0,26.371444538862907,344619.0,8699840.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-102.png,gray,4.0,1.0,1.0,3.385656603422172,259924.0,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-104.png,no_annotation,0.0,0.0,0.0,0.0,0.0,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-106.png,gray,2.0,0.0,0.0,1.6585237650861209,29854.0,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-109.png,gray,12.0,1.0,1.0,10.12857640079162,254521.0,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-110.png,gray,8.0,1.0,3.0,7.047889976383712,195841.0,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-113.png,gray,7.0,0.0,0.0,5.795573794441253,65493.0,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-114.png,gray,1.0,0.0,0.0,0.8284341435839457,11724.0,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-127.png,gray,8.0,1.0,1.0,6.599644473760849,198588.5,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-131.png,gray,1.0,0.0,0.0,0.7903730936819172,11609.0,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-134.png,gray,0.0,2.0,1.0,0.0,1317461.0,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-137.png,gray,1.0,1.0,0.0,0.7771792705252781,642723.0,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-142.png,gray,1.0,0.0,0.0,0.8527609573241061,11829.5,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-146.png,gray,1.0,1.0,0.0,0.8530875036581796,2166242.0,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-147.png,gray,0.0,3.0,1.0,0.0,1932076.0,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-148.png,gray,1.0,0.0,0.0,0.8682161753590325,11486.5,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-149.png,gray,1.0,1.0,0.0,0.8164414010683684,1563355.0,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-151.png,gray,1.0,2.0,0.0,0.8075823400542126,46660.5,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-153.png,gray,1.0,0.0,0.0,0.7903638814016173,11729.0,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-154.png,gray,1.0,0.0,0.0,0.6627615318732412,11014.5,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-157.png,gray,1.0,1.0,0.0,0.8182019977802442,1271372.0,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-158.png,gray,1.0,2.0,0.0,0.5446537990196079,1057216.0,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-16.png,gray,0.0,1.0,2.0,0.0,1058472.5,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-160.png,gray,1.0,4.0,0.0,0.7129980003076449,1043225.5,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-161.png,gray,0.0,3.0,1.0,0.0,1448065.0,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-165.png,gray,1.0,1.0,0.0,0.6022012578616353,10804.5,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-168.png,no_annotation,0.0,8.0,0.0,0.0,640289.0,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-170.png,no_annotation,0.0,0.0,0.0,0.0,0.0,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-174.png,no_annotation,0.0,0.0,0.0,0.0,0.0,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-175.png,no_annotation,0.0,0.0,0.0,0.0,0.0,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-18.png,gray,0.0,1.0,2.0,0.0,398834.0,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-180.png,no_annotation,0.0,0.0,0.0,0.0,0.0,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-182.png,no_annotation,0.0,0.0,0.0,0.0,0.0,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-195.png,no_annotation,0.0,1.0,0.0,0.0,47924.0,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-197.png,gray,11.0,0.0,1.0,9.297642530792308,173898.0,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-2.png,gray,3.0,0.0,0.0,2.7018351599796424,97076.5,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-201.png,gray,7.0,0.0,0.0,5.357757590400286,100834.0,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-202.png,gray,9.0,2.0,2.0,7.577277153061601,273574.5,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-206.png,gray,1.0,0.0,0.0,0.9599229716486525,169791.5,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-211.png,gray,9.0,0.0,0.0,7.475228582663421,160147.5,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-215.png,gray,5.0,0.0,1.0,4.264463421857462,349565.0,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-22.png,gray,0.0,1.0,1.0,0.0,680948.5,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-221.png,gray,2.0,1.0,2.0,1.474927756485422,55030.0,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-228.png,gray,4.0,0.0,0.0,2.9388916016391473,54033.0,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-23.png,no_annotation,0.0,0.0,0.0,0.0,0.0,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-230.png,gray,3.0,0.0,0.0,2.628281833718615,34917.0,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-240.png,gray,1.0,7.0,0.0,0.5940585050725626,359861.5,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-243.png,no_annotation,0.0,2.0,0.0,0.0,566372.0,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-25.png,gray,19.0,0.0,0.0,16.573448954812417,273722.5,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-3.png,gray,2.0,0.0,17.0,1.4790294874488614,9836.0,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-31.png,no_annotation,0.0,0.0,0.0,0.0,0.0,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-33.png,gray,6.0,0.0,0.0,5.4099581523341485,353069.0,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-36.png,gray,10.0,0.0,2.0,8.398040657215128,186858.0,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-39.png,gray,3.0,1.0,0.0,2.5372076295567605,127883.5,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-42.png,no_annotation,0.0,0.0,0.0,0.0,0.0,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-43.png,no_annotation,0.0,0.0,0.0,0.0,0.0,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-49.png,no_annotation,0.0,0.0,0.0,0.0,0.0,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-5.png,gray,14.0,1.0,1.0,12.133725364619758,349618.0,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-50.png,gray,3.0,0.0,0.0,2.306258376774607,20123.5,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-60.png,no_annotation,0.0,0.0,0.0,0.0,0.0,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-71.png,no_annotation,0.0,0.0,0.0,0.0,0.0,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-72.png,gray,5.0,0.0,0.0,4.329781202367731,92257.0,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-74.png,gray,14.0,0.0,0.0,12.004780707058696,196835.0,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-75.png,gray,0.0,6.0,1.0,0.0,207530.5,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-79.png,gray,0.0,1.0,1.0,0.0,32974.0,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-82.png,gray,25.0,0.0,1.0,21.82230477916712,364454.0,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-88.png,gray,5.0,1.0,0.0,4.283634125968,145484.5,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-92.png,gray,13.0,0.0,0.0,10.984969090389795,214357.0,8785920.0
+Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-96.png,no_annotation,0.0,0.0,0.0,0.0,0.0,8785920.0
+Bijlagen deel 2 bij Woo-besluit bijverdiensten bestuurders semipublieke sector _WNT_-12.png,border,18.0,2.0,1.0,15.340650766909844,241125.5,8690100.0
+Bijlagen deel 2 bij Woo-besluit bijverdiensten bestuurders semipublieke sector _WNT_-14.png,gray,4.0,0.0,0.0,3.5506079543271865,61371.0,8681632.0
+Bijlagen deel 2 bij Woo-besluit bijverdiensten bestuurders semipublieke sector _WNT_-16.png,color,69.0,22.0,0.0,59.434440812125544,2546706.5,8693590.0
+Bijlagen deel 2 bij Woo-besluit bijverdiensten bestuurders semipublieke sector _WNT_-3.png,gray,8.0,0.0,0.0,7.171483534961579,106384.5,8684121.0
+Bijlagen deel 2 bij Woo-besluit bijverdiensten bestuurders semipublieke sector _WNT_-7.png,color,0.0,0.0,1.0,0.0,0.0,8685120.0
+Bijlagen deel 2 bij Woo-besluit bijverdiensten bestuurders semipublieke sector _WNT_page015-001.png,border,18.0,2.0,1.0,15.382343457286826,257667.0,8699840.0
+Binder OneLove-12.png,border,7.0,3.0,1.0,6.6816999320137285,930822.0,11336274.0
+Binder OneLove-5.png,border,4.0,3.0,2.0,3.856849851220288,904061.0,11336274.0
+Binder OneLove_page002-001.png,border,2.0,0.0,2.0,1.856409911666891,27072.0,8699840.0
+Binder OneLove_page005-001.png,border,5.0,0.0,0.0,4.717318071871896,70317.0,8699840.0
+Binder OneLove_page131-001.png,border,6.0,0.0,0.0,5.727018599587086,5602782.0,8699840.0
+Binder OneLove_page132-001.png,border,3.0,0.0,0.0,2.862367337947716,33086.0,8699840.0
+Binder OneLove_page172-001.png,border,8.0,0.0,0.0,7.886400163748324,2521935.0,8699840.0
+c-sms-berichten-mp-sg-11.png,gray,2.0,2.0,1.0,1.3466195849988067,1450999.0,8710364.0
+c-sms-berichten-mp-sg-13.png,gray,1.0,1.0,0.0,0.9060604744742137,34947.5,8710364.0
+c-sms-berichten-mp-sg-14.png,gray,1.0,0.0,1.0,0.5462707162216057,171620.5,8710364.0
+c-sms-berichten-mp-sg-15.png,gray,2.0,1.0,3.0,1.4156529584664825,436673.5,8710364.0
+c-sms-berichten-mp-sg-2.png,gray,2.0,1.0,0.0,1.8557636610175625,688051.5,8710364.0
+c-sms-berichten-mp-sg-26.png,gray,0.0,3.0,1.0,0.0,3314379.0,8710364.0
+c-sms-berichten-mp-sg-3.png,no_annotation,0.0,1.0,0.0,0.0,887073.5,8710364.0
+c-sms-berichten-mp-sg-31.png,gray,5.0,6.0,0.0,4.482011301366835,393229.5,8710364.0
+c-sms-berichten-mp-sg-32.png,gray,6.0,5.0,0.0,5.316528920141762,941851.0,8710364.0
+c-sms-berichten-mp-sg-33.png,gray,0.0,0.0,1.0,0.0,0.0,8710364.0
+c-sms-berichten-mp-sg-42.png,gray,0.0,0.0,1.0,0.0,0.0,8710364.0
+c-sms-berichten-mp-sg-45.png,no_annotation,0.0,1.0,0.0,0.0,340563.5,8710364.0
+c-sms-berichten-mp-sg-7.png,gray,0.0,0.0,4.0,0.0,0.0,8710364.0
+c-sms-berichten-mp-sg-8.png,no_annotation,0.0,0.0,0.0,0.0,0.0,8710364.0
+c-sms-berichten-mp-sg-9.png,gray,0.0,2.0,2.0,0.0,3964730.0,8710364.0
+Documenten bij besluit op Wob-verzoek over via Koninklijk Besluit verlopen benoemingen binnen Centraal Tuchtcollege voor de Gezondheidszorg-6.png,gray,3.0,0.0,0.0,2.910670306372351,1701375.0,8785920.0
+Documenten bij herziene beslissing op bezwaar Wob-besluit over NGO-schepen op Middellandse Zee-10.png,color,11.0,0.0,0.0,10.49699686253102,308331.0,8703348.0
+Documenten bij herziene beslissing op bezwaar Wob-besluit over NGO-schepen op Middellandse Zee-7.png,color,3.0,3.0,0.0,2.9404112889758993,1021465.5,8691374.0
+Documenten bij herziene beslissing op bezwaar Wob-besluit over NGO-schepen op Middellandse Zee-8.png,color,6.0,0.0,0.0,5.801394169961822,2056353.5,8691374.0
+Documenten bij herziene beslissing op bezwaar Wob-besluit over NGO-schepen op Middellandse Zee-9.png,color,7.0,0.0,1.0,6.562527518997655,2702768.5,8691374.0
+Documenten bij herziene beslissing op bezwaar Wob-besluit over NGO-schepen op Middellandse Zee_page008-001.png,color,3.0,2.0,0.0,2.926921753853967,1019152.5,8699840.0
+Documenten bij herziene beslissing op bezwaar Wob-besluit over NGO-schepen op Middellandse Zee_page012-001.png,color,11.0,0.0,0.0,10.386750350503583,308298.0,8699840.0
+Documenten bij Woo-besluit over correspondentie tussen besturen bij totstandkoming rapport Perspectief voor de Gnephoek eo-1.png,color,13.0,3.0,5.0,10.483629490021585,713528.0,8581910.0
+Documenten bij Woo-besluit over correspondentie tussen besturen bij totstandkoming rapport Perspectief voor de Gnephoek eo-12.png,color,7.0,8.0,13.0,5.489983020301121,573132.0,8570016.0
+Documenten bij Woo-besluit over correspondentie tussen besturen bij totstandkoming rapport Perspectief voor de Gnephoek eo-15.png,gray,0.0,0.0,1.0,0.0,0.0,8564072.0
+Documenten bij Woo-besluit over correspondentie tussen besturen bij totstandkoming rapport Perspectief voor de Gnephoek eo-16.png,color,12.0,3.0,2.0,9.022217076802034,375084.0,8578420.0
+Documenten bij Woo-besluit over correspondentie tussen besturen bij totstandkoming rapport Perspectief voor de Gnephoek eo-24.png,border,2.0,2.0,9.0,1.6765286514617805,37870.5,8596273.0
+Documenten bij Woo-besluit over correspondentie tussen besturen bij totstandkoming rapport Perspectief voor de Gnephoek eo-3.png,color,7.0,6.0,1.0,6.118657748768017,288914.0,8577770.0
+Documenten bij Woo-besluit over correspondentie tussen besturen bij totstandkoming rapport Perspectief voor de Gnephoek eo-9.png,color,8.0,10.0,13.0,6.849620051608278,529006.5,8558892.0
+Documenten bij Woo-besluit over rapporten The Hague Centre for Strategic Studies _HCSS_-11.png,border,3.0,0.0,1.0,2.7289075287878886,42396.0,8690346.0
+Documenten bij Woo-besluit over rapporten The Hague Centre for Strategic Studies _HCSS_-3.png,border,5.0,6.0,1.0,4.484484624497659,2417752.5,8690346.0
+Documenten bij Woo-besluit over rapporten The Hague Centre for Strategic Studies _HCSS_-7.png,no_annotation,0.0,0.0,0.0,0.0,0.0,8690346.0
+Documenten bij Woo-besluit over rapporten The Hague Centre for Strategic Studies _HCSS_-8.png,no_annotation,0.0,0.0,0.0,0.0,0.0,8690346.0
+Documenten bij Woo-besluit over rapporten The Hague Centre for Strategic Studies _HCSS_page010-001.png,border,2.0,0.0,0.0,1.9720300128892445,29361.0,8699840.0
+Documenten bij Woo-besluit over rapporten The Hague Centre for Strategic Studies _HCSS_page014-001.png,border,1.0,0.0,0.0,0.9875468964372873,490158.0,8699840.0
+documenten-180-226-10.png,gray,5.0,0.0,3.0,4.216482123448542,234051.0,8710364.0
+documenten-180-226-22.png,gray,2.0,2.0,5.0,1.7661568138889605,1966509.5,8710364.0
+documenten-180-226-23.png,gray,1.0,0.0,0.0,0.9544928926368517,358300.5,8710364.0
+documenten-180-226-25.png,gray,8.0,3.0,4.0,6.274282874150241,646303.0,8710364.0
+documenten-180-226-3.png,no_annotation,0.0,0.0,0.0,0.0,0.0,8710364.0
+documenten-180-226-30.png,gray,5.0,0.0,1.0,3.5336596447155646,432717.5,8710364.0
+documenten-180-226-37.png,gray,3.0,1.0,3.0,2.433008754989906,230392.0,8710364.0
+documenten-180-226-41.png,gray,2.0,1.0,2.0,1.4792910597663316,135985.0,8710364.0
+documenten-180-226-45.png,gray,5.0,2.0,17.0,3.992900744903509,608874.5,8710364.0
+documenten-180-226-48.png,gray,26.0,0.0,1.0,22.808561211644175,606761.0,8710364.0
+documenten-180-226-5.png,gray,3.0,1.0,0.0,2.7972465341889334,309633.5,8710364.0
+documenten-180-226-51.png,gray,5.0,1.0,6.0,4.409535366476822,735694.0,8710364.0
+documenten-180-226-61.png,gray,6.0,15.0,42.0,5.254998292919386,1407000.5,8710364.0
+documenten-180-226-62.png,gray,19.0,3.0,9.0,15.973361947774965,687596.5,8710364.0
+documenten-180-226-70.png,gray,19.0,1.0,3.0,15.70776730687662,925892.5,8710364.0
+documenten-180-226-71.png,gray,10.0,3.0,13.0,7.414529910139241,1453786.0,8710364.0
+documenten-180-226-73.png,gray,1.0,0.0,2.0,0.6428815820987444,54133.0,8710364.0
+documenten-180-226-77.png,gray,10.0,2.0,12.0,8.11351017427382,1168678.5,8710364.0
+documenten-180-226-79.png,gray,12.0,2.0,6.0,10.255194547112845,615982.5,8710364.0
+documenten-180-226-81.png,gray,3.0,5.0,31.0,2.436962720662942,2158006.5,8710364.0
+documenten-180-226-85.png,gray,5.0,1.0,3.0,4.067145044104407,314687.0,8710364.0
+documenten-180-226-88.png,gray,10.0,1.0,2.0,8.89491655303135,1365499.0,8710364.0
+documenten-180-226-90.png,gray,12.0,2.0,5.0,11.24320566132523,3533878.0,8710364.0
+doucmenten deel 5-13.png,black,5.0,0.0,0.0,4.33917938355655,63842.0,8745984.0
+doucmenten deel 5-2.png,black,13.0,0.0,2.0,11.414782260766904,108186.0,8745984.0
+doucmenten deel 5-21.png,black,19.0,0.0,0.0,17.481764649590176,429417.5,8745984.0
+doucmenten deel 5-29.png,black,21.0,4.0,5.0,18.61803056970613,236830.5,8745984.0
+doucmenten deel 5-3.png,black,17.0,2.0,7.0,15.019671377371973,423715.5,8745984.0
+doucmenten deel 5-33.png,black,9.0,0.0,0.0,8.427955317702919,207424.0,8745984.0
+doucmenten deel 5-37.png,black,11.0,1.0,3.0,9.614684520011956,201168.5,8745984.0
+doucmenten deel 5-38.png,black,11.0,0.0,1.0,9.990333141363765,172914.5,8745984.0
+doucmenten deel 5-39.png,black,8.0,0.0,0.0,7.300628726160175,124025.0,8745984.0
+doucmenten deel 5-4.png,black,21.0,5.0,0.0,18.55938838949351,344417.0,8745984.0
+doucmenten deel 5-41.png,black,6.0,1.0,3.0,4.987655266245552,132869.5,8745984.0
+doucmenten deel 5-42.png,black,14.0,1.0,1.0,12.29655854407431,109034.0,8745984.0
+doucmenten deel 5-43.png,black,16.0,0.0,0.0,13.965490906629007,132016.0,8745984.0
+doucmenten deel 5-45.png,black,17.0,0.0,0.0,14.975788252409965,170333.0,8745984.0
+doucmenten deel 5-46.png,black,11.0,0.0,0.0,9.75206804188706,114369.5,8745984.0
+doucmenten deel 5-47.png,black,10.0,1.0,1.0,8.632287447988842,95658.0,8745984.0
+doucmenten deel 5-49.png,black,11.0,4.0,3.0,9.745199702215885,243488.0,8745984.0
+doucmenten deel 5-50.png,black,15.0,0.0,0.0,13.298502548052655,209438.5,8745984.0
+doucmenten deel 5-53.png,black,4.0,1.0,1.0,3.5467355387764434,77831.5,8745984.0
+doucmenten deel 5-57.png,black,5.0,1.0,0.0,4.526111821565792,94387.0,8745984.0
+doucmenten deel 5-66.png,black,13.0,1.0,2.0,11.4245045456191,202452.5,8745984.0
+doucmenten deel 5-7.png,black,4.0,2.0,0.0,3.5879845215646733,97512.5,8745984.0
+doucmenten deel 5-73.png,black,5.0,3.0,3.0,4.123240994699579,952413.5,8745984.0
+doucmenten deel 5-9.png,black,12.0,0.0,1.0,10.822059112437904,155458.0,8745984.0
+E-mail 21 Bijlage 2248_20210317_structuurplan_Molenstraat (geanonimiseerd)-1.png,no_annotation,0.0,10.0,0.0,0.0,197015.0,17410204.0
+E-mail 21 Bijlage 2248_20210317_structuurplan_Molenstraat (geanonimiseerd)-14.png,no_annotation,0.0,2.0,0.0,0.0,4657223.0,17410204.0
+E-mail 21 Bijlage 2248_20210317_structuurplan_Molenstraat (geanonimiseerd)-15.png,no_annotation,0.0,24.0,0.0,0.0,3217425.5,17410204.0
+E-mail 21 Bijlage 2248_20210317_structuurplan_Molenstraat (geanonimiseerd)-2.png,no_annotation,0.0,4.0,0.0,0.0,15790.5,17410204.0
+E-mail 21 Bijlage 2248_20210317_structuurplan_Molenstraat (geanonimiseerd)-6.png,no_annotation,0.0,11.0,0.0,0.0,902456.5,17410204.0
+foto_locatie-1.png,no_annotation,0.0,25.0,0.0,0.0,1948779.0,59907600.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-10.png,no_annotation,0.0,14.0,0.0,0.0,150347.5,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-102.png,no_annotation,0.0,1.0,0.0,0.0,3454303.5,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-104.png,no_annotation,0.0,0.0,0.0,0.0,0.0,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-106.png,no_annotation,0.0,0.0,0.0,0.0,0.0,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-116.png,no_annotation,0.0,30.0,0.0,0.0,112995.0,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-117.png,no_annotation,0.0,2.0,0.0,0.0,174118.5,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-125.png,no_annotation,0.0,86.0,0.0,0.0,260150.5,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-126.png,no_annotation,0.0,9.0,0.0,0.0,26655.5,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-128.png,no_annotation,0.0,0.0,0.0,0.0,0.0,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-132.png,no_annotation,0.0,3.0,0.0,0.0,178293.0,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-134.png,no_annotation,0.0,11.0,0.0,0.0,1614695.5,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-136.png,no_annotation,0.0,9.0,0.0,0.0,26938.5,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-141.png,no_annotation,0.0,1.0,0.0,0.0,6837.5,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-144.png,no_annotation,0.0,1.0,0.0,0.0,7136.0,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-145.png,no_annotation,0.0,1.0,0.0,0.0,7783.0,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-146.png,no_annotation,0.0,1.0,0.0,0.0,7417.5,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-147.png,no_annotation,0.0,1.0,0.0,0.0,7978.0,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-15.png,no_annotation,0.0,2.0,0.0,0.0,2920993.5,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-150.png,no_annotation,0.0,1.0,0.0,0.0,7709.5,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-152.png,no_annotation,0.0,7.0,0.0,0.0,108720.5,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-160.png,gray,0.0,2.0,4.0,0.0,2248152.5,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-161.png,gray,12.0,0.0,3.0,9.3255677568028,441161.5,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-163.png,no_annotation,0.0,0.0,0.0,0.0,0.0,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-165.png,no_annotation,0.0,8.0,0.0,0.0,17508.5,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-168.png,no_annotation,0.0,45.0,0.0,0.0,59961.5,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-169.png,no_annotation,0.0,0.0,0.0,0.0,0.0,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-172.png,no_annotation,0.0,23.0,0.0,0.0,284280.5,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-174.png,no_annotation,0.0,66.0,0.0,0.0,137478.0,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-176.png,no_annotation,0.0,12.0,0.0,0.0,34107.0,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-182.png,no_annotation,0.0,0.0,0.0,0.0,0.0,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-187.png,no_annotation,0.0,28.0,0.0,0.0,36635.5,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-192.png,gray,7.0,1.0,4.0,5.612412796749599,270577.5,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-193.png,no_annotation,0.0,22.0,0.0,0.0,522884.0,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-196.png,no_annotation,0.0,0.0,0.0,0.0,0.0,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-2.png,no_annotation,0.0,0.0,0.0,0.0,0.0,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-22.png,no_annotation,0.0,5.0,0.0,0.0,9310.5,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-23.png,no_annotation,0.0,2.0,0.0,0.0,561632.0,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-28.png,no_annotation,0.0,8.0,0.0,0.0,19748.5,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-30.png,no_annotation,0.0,34.0,0.0,0.0,64416.0,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-36.png,no_annotation,0.0,12.0,0.0,0.0,36856.5,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-38.png,no_annotation,0.0,13.0,0.0,0.0,22656.5,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-39.png,no_annotation,0.0,14.0,0.0,0.0,35741.5,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-4.png,no_annotation,0.0,33.0,0.0,0.0,62103.5,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-41.png,gray,9.0,1.0,0.0,7.608127289037314,178805.0,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-42.png,no_annotation,0.0,0.0,0.0,0.0,0.0,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-43.png,no_annotation,0.0,0.0,0.0,0.0,0.0,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-45.png,gray,5.0,2.0,17.0,4.166171587259757,429636.5,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-5.png,no_annotation,0.0,49.0,0.0,0.0,86421.5,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-53.png,no_annotation,0.0,4.0,0.0,0.0,17368.5,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-56.png,no_annotation,0.0,33.0,0.0,0.0,58717.0,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-59.png,no_annotation,0.0,49.0,0.0,0.0,111591.5,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-60.png,no_annotation,0.0,9.0,0.0,0.0,37468.0,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-63.png,no_annotation,0.0,3.0,0.0,0.0,21101.5,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-67.png,no_annotation,0.0,0.0,0.0,0.0,0.0,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-68.png,no_annotation,0.0,68.0,0.0,0.0,166062.0,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-69.png,no_annotation,0.0,25.0,0.0,0.0,58049.5,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-7.png,no_annotation,0.0,8.0,0.0,0.0,29603.0,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-71.png,no_annotation,0.0,4.0,0.0,0.0,17219.0,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-73.png,no_annotation,0.0,10.0,0.0,0.0,33888.0,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-74.png,no_annotation,0.0,2.0,0.0,0.0,6872.0,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-78.png,no_annotation,0.0,5.0,0.0,0.0,16501.5,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-79.png,no_annotation,0.0,0.0,0.0,0.0,0.0,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-80.png,no_annotation,0.0,0.0,0.0,0.0,0.0,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-81.png,no_annotation,0.0,2.0,0.0,0.0,1704335.5,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-83.png,gray,0.0,3.0,2.0,0.0,1115821.0,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-86.png,no_annotation,0.0,2.0,0.0,0.0,8877.5,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-93.png,gray,1.0,1.0,1.0,0.8066934404283802,2982494.0,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-95.png,no_annotation,0.0,0.0,0.0,0.0,0.0,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-97.png,no_annotation,0.0,1.0,0.0,0.0,1306850.5,8785920.0
+Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-98.png,no_annotation,0.0,0.0,0.0,0.0,0.0,8785920.0
+heel_moeilijk-1.png,color,0.0,5.0,6.0,0.0,39544.0,8703348.0
+heel_moeilijk-2.png,no_annotation,0.0,4.0,0.0,0.0,5200.0,8703348.0
+heel_moeilijk-3.png,no_annotation,0.0,0.0,0.0,0.0,0.0,8703348.0
+heel_moeilijk-6.png,no_annotation,0.0,3.0,0.0,0.0,4757.5,8703348.0
+heel_moeilijk-7.png,no_annotation,0.0,5.0,0.0,0.0,23754.0,8703348.0
+heel_moeilijk-8.png,no_annotation,0.0,14.0,0.0,0.0,30672.0,8703348.0
+heel_moeilijk-9.png,no_annotation,0.0,14.0,0.0,0.0,33200.0,8703348.0
+IMAGES_00000_00000_14175046-1.png,black,37.0,2.0,3.0,30.93874549234646,324636.0,8415000.0
+IMAGES_00000_00000_14175046-2-1.png,black,36.0,3.0,4.0,30.138307358929442,324636.0,8415000.0
+IMAGES_00000_00000_14175046-2.png,no_annotation,0.0,0.0,0.0,0.0,0.0,8415000.0
+K37089 Wildeman Storage openbaar_Bestanden_15275511-4.png,black,1.0,1.0,1.0,0.5086807605999764,16245.0,8415000.0
+Mail concept raadsbrief 1-10-2020 pdf-3.png,black,4.0,0.0,0.0,3.4797994664915723,42526.0,8696332.0
+nl.mnre1058.2i.2022.1.misc.9-12.png,no_annotation,0.0,0.0,0.0,0.0,0.0,8415000.0
+nl.mnre1058.2i.2022.1.misc.9-17.png,border,19.0,10.0,61.0,16.177930480645536,500794.0,8415000.0
+nl.mnre1058.2i.2022.1.misc.9-2.png,no_annotation,0.0,0.0,0.0,0.0,0.0,8415000.0
+nl.mnre1058.2i.2022.1.misc.9-20.png,no_annotation,0.0,0.0,0.0,0.0,0.0,8415000.0
+nl.mnre1058.2i.2022.1.misc.9-24.png,no_annotation,0.0,3.0,0.0,0.0,1879858.0,8415000.0
+nl.mnre1058.2i.2022.1.misc.9-31.png,border,0.0,1.0,16.0,0.0,1816064.0,8415000.0
+nl.mnre1058.2i.2022.1.misc.9-42.png,border,0.0,1.0,18.0,0.0,1816064.0,8415000.0
+nl.mnre1058.2i.2022.1.misc.9-46.png,border,7.0,4.0,27.0,5.399913863061463,320015.0,8415000.0
+nl.mnre1058.2i.2022.1.misc.9-5.png,border,13.0,0.0,2.0,11.526465136750483,125409.5,8415000.0
+nl.mnre1058.2i.2022.1.misc.9-50.png,gray,1.0,2.0,0.0,0.96167830935014,91968.5,8415000.0
+nl.mnre1058.2i.2022.1.misc.9-51.png,gray,1.0,2.0,0.0,0.9515360927096597,91550.0,8415000.0
+nl.mnre1058.2i.2022.1.misc.9-52.png,border,9.0,8.0,58.0,7.5546006306977755,496200.0,8415000.0
+nl.mnre1058.2i.2022.1.misc.9-54.png,border,9.0,2.0,18.0,7.683769389385969,3027970.0,8415000.0
+nl.mnre1058.2i.2022.1.misc.9-55.png,border,9.0,0.0,0.0,8.112825566512468,2347292.5,8415000.0
+nl.mnre1058.2i.2022.1.misc.9-56.png,border,7.0,2.0,20.0,6.151480273285863,278425.0,8415000.0
+nl.mnre1058.2i.2022.1.misc.9-57.png,border,24.0,8.0,71.0,19.406471510380616,814307.0,8415000.0
+Ordner1+doc+1-50-1.png,border,15.0,4.0,20.0,12.990801101967788,310709.5,8415000.0
+Ordner1+doc+1-50-12.png,border,1.0,1.0,0.0,0.8540228359001594,782548.5,8415000.0
+Ordner1+doc+1-50-16.png,border,4.0,2.0,11.0,3.2749699650985677,143184.0,8415000.0
+Ordner1+doc+1-50-18.png,border,6.0,1.0,3.0,5.032935355119933,913651.5,8415000.0
+Ordner1+doc+1-50-19.png,border,2.0,0.0,1.0,1.7992153795130328,50536.0,8415000.0
+Ordner1+doc+1-50-23.png,border,3.0,0.0,2.0,2.2440464730236416,23558.0,8415000.0
+Ordner1+doc+1-50-25.png,border,3.0,0.0,4.0,2.5151567223203526,63577.0,8415000.0
+Ordner1+doc+1-50-27.png,border,1.0,1.0,4.0,0.7816770186335403,18257.0,8415000.0
+Ordner1+doc+1-50-30.png,border,12.0,0.0,22.0,10.18265183645443,3586564.0,8415000.0
+Ordner1+doc+1-50-4.png,border,13.0,2.0,16.0,10.851615510444336,242302.0,8415000.0
+Ordner1+doc+1-50-6.png,border,1.0,1.0,3.0,0.9241008681273254,18603.5,8415000.0
+Ordner2+doc+51-100-12.png,border,2.0,1.0,2.0,1.8642743053816888,25903.5,8415000.0
+Ordner2+doc+51-100-19.png,border,3.0,1.0,2.0,2.7712511676236664,28754.0,8415000.0
+Ordner2+doc+51-100-2.png,border,3.0,5.0,2.0,2.548915570980568,1999999.0,8415000.0
+Ordner2+doc+51-100-25.png,border,3.0,1.0,2.0,2.4911416506431245,53770.0,8415000.0
+Ordner2+doc+51-100-28.png,border,2.0,1.0,3.0,1.810037675525578,32498.5,8415000.0
+Ordner2+doc+51-100-29.png,border,1.0,5.0,4.0,0.8920678293016153,1978362.5,8415000.0
+Ordner2+doc+51-100-30.png,border,3.0,0.0,2.0,2.5493649931390054,27931.5,8415000.0
+Ordner2+doc+51-100-34.png,no_annotation,0.0,6.0,0.0,0.0,32839.5,8415000.0
+Ordner2+doc+51-100-39.png,no_annotation,0.0,5.0,0.0,0.0,1180435.5,8415000.0
+Ordner2+doc+51-100-4.png,border,3.0,0.0,2.0,2.6957011472380015,30131.5,8415000.0
+Ordner2+doc+51-100-40.png,no_annotation,0.0,4.0,0.0,0.0,1158125.0,8415000.0
+Ordner2+doc+51-100-41.png,no_annotation,0.0,2.0,0.0,0.0,5796.5,8415000.0
+Ordner2+doc+51-100-42.png,no_annotation,0.0,4.0,0.0,0.0,29083.0,8415000.0
+Ordner2+doc+51-100-44.png,no_annotation,0.0,5.0,0.0,0.0,56147.0,8415000.0
+Ordner2+doc+51-100-47.png,no_annotation,0.0,1.0,0.0,0.0,6953.0,8415000.0
+Ordner2+doc+51-100-48.png,no_annotation,0.0,2.0,0.0,0.0,18473.0,8415000.0
+Ordner3+doc+101-150-18.png,no_annotation,0.0,15.0,0.0,0.0,2634187.0,8415000.0
+Ordner3+doc+101-150-2.png,no_annotation,0.0,3.0,0.0,0.0,21465.5,8415000.0
+Ordner3+doc+101-150-20.png,no_annotation,0.0,6.0,0.0,0.0,296633.0,8415000.0
+Ordner3+doc+101-150-21.png,no_annotation,0.0,0.0,0.0,0.0,0.0,8415000.0
+Ordner3+doc+101-150-22.png,no_annotation,0.0,5.0,0.0,0.0,66752.0,8415000.0
+Ordner3+doc+101-150-27.png,no_annotation,0.0,14.0,0.0,0.0,1714804.5,8415000.0
+Ordner3+doc+101-150-42.png,no_annotation,0.0,4.0,0.0,0.0,1227971.5,8415000.0
+Ordner3+doc+101-150-44.png,no_annotation,0.0,6.0,0.0,0.0,101236.5,8415000.0
+Ordner3+doc+101-150-46.png,no_annotation,0.0,8.0,0.0,0.0,31222.5,8415000.0
+Ordner3+doc+101-150-54.png,no_annotation,0.0,5.0,0.0,0.0,67774.5,8415000.0
+Ordner3+doc+101-150-7.png,no_annotation,0.0,2.0,0.0,0.0,10083.5,8415000.0
+Ordner3+doc+101-150-8.png,no_annotation,0.0,2.0,0.0,0.0,23382.0,8415000.0
+RE_Vervolgonderzoek_Windenergie_rond_de_Veluwe_gegevens_t_b_v_doorrekening_buca_s_i_r_t_stilstand_msg_34663024b1-4.png,black,2.0,0.0,2.0,1.4374682132524164,71203.0,8415000.0
+Vareniuslaan en aansluiting op Spinozapad-3.png,no_annotation,0.0,4.0,0.0,0.0,2024444.0,8686416.0
+Wob-besluit-inzake-opkoopregeling-kalverhouderij-2021-010918.html__concatenated-page2.png,black,2.0,3.0,0.0,1.9576414834667455,105664.0,4196514.0
+Wob-besluit-inzake-opkoopregeling-kalverhouderij-2021-010918.html__concatenated-page4.png,black,2.0,0.0,0.0,1.939910297173847,197739.0,3868706.0
+Wob-besluit-Onthaasten-Arrangementen-B-V-zaaknummer-2021-011108.html__concatenated-page1.png,black,4.0,0.0,0.0,3.799635307095457,46375.5,3863061.0
+Wob-besluit-Project-No-Waste-2021-011855__concatenated-page-006.png,black,4.0,0.0,0.0,3.7595070193536895,27562.0,8703348.0
+Wob-besluit-Project-No-Waste-2021-011855__concatenated-page-011.png,black,5.0,0.0,0.0,4.756307959372888,110735.0,8703348.0
+wob-verzoek-1.png,no_annotation,0.0,1.0,0.0,0.0,45604.5,8699840.0
+wob-verzoek-4.png,no_annotation,0.0,1.0,0.0,0.0,668980.0,8699840.0
+wob-verzoek_omgevingsvergunning_terrein_nieuwendammerdijk_538-963594-page1.png,gray,3.0,1.0,1.0,2.475727226928388,85480.5,3863061.0
+wob-verzoek_ontstaansgeschiedenis_ijplein_voormalig_adm-terrein-963340-page0.png,gray,1.0,0.0,0.0,0.9898720372695207,262655.5,3868706.0
+wob-verzoek_originele_bouwtekeningen_hilversumstraat_46_48_52_54_en_56-963319-page0.png,gray,4.0,0.0,1.0,3.6337133649191027,184136.0,3868706.0
+wob-verzoek_uitvoeringsrichtlijn_kruimelgevallen-964248-page0.png,black,3.0,2.0,1.0,2.684749612734449,65717.0,3770685.0
+wob-verzoek_vmr-land_voor_publicatie-986643-page0.png,black,1.0,0.0,0.0,0.9373463429625076,12280.5,3868706.0
+wob-verzoek_voor_publicatie-963263-page0.png,black,8.0,0.0,0.0,7.4509768463485075,108097.5,3867052.0
+wob-verzoek_wieringa_tweede_bloemdwarsstraat_2-990937-page1.png,black,1.0,0.0,0.0,0.9694648395048638,74108.0,4227330.0
+wob_verzoek_postzegelpark-969443-page0.png,black,9.0,5.0,15.0,6.971734605499627,116292.5,3868706.0
+wob_verzoek_stukken_hondenverbod_kop_van_jut-964275-page1.png,black,48.0,0.0,0.0,44.139842670442654,1792631.5,3868706.0
+wob_verzoek_uitbreiding_terras-970022-page1.png,black,2.0,0.0,0.0,1.6774609843937576,5115.0,3863061.0
+woo-kennisgroepstandpunten-formeel-recht-deelbesluit-2-documenten_page009-001.png,border,2.0,0.0,1.0,1.9973294516779754,691516.0,8699840.0
+woo-niet-evacueren-medewerkers-atvet-documenten-2.png,border,1.0,0.0,1.0,0.9954237922282809,737474.0,8747370.0
+woo-niet-evacueren-medewerkers-atvet-documenten-5.png,border,22.0,0.0,8.0,19.869364108558685,580040.5,8682912.0
+woo-niet-evacueren-medewerkers-atvet-documenten-7.png,border,65.0,3.0,32.0,59.57073623743818,625856.0,8682912.0
+woo-niet-evacueren-medewerkers-atvet-documenten-8.png,border,8.0,0.0,30.0,6.887787333186913,61257.0,8682912.0
+woo-niet-evacueren-medewerkers-atvet-documenten-9.png,border,48.0,1.0,14.0,41.832486881086005,535257.5,8682912.0
+woo-voorbereiding-toespraak-14-december-2020-14.png,gray,0.0,2.0,2.0,0.0,2517607.0,8617830.0
+woo-voorbereiding-toespraak-14-december-2020-2.png,no_annotation,0.0,0.0,0.0,0.0,0.0,8628732.0
+woo-voorbereiding-toespraak-14-december-2020-5.png,no_annotation,0.0,0.0,0.0,0.0,0.0,8620300.0

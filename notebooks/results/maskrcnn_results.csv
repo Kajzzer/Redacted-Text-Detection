@@ -1,0 +1,285 @@
+,TP,FP,FN,IOU,Label
+..\datasets\test\0007-page1.png,1,2,1,0.7084040747028862,gray
+..\datasets\test\0008-page0.png,1,1,1,0.7347549569771792,gray
+..\datasets\test\0009-page0.png,2,0,0,1.543817751671251,gray
+..\datasets\test\0011-page0.png,14,1,1,11.49555947801112,gray
+..\datasets\test\0016-page1.png,21,0,0,17.736400689037357,gray
+..\datasets\test\0018-page0.png,2,0,0,1.255067500146993,gray
+..\datasets\test\01._2019-10-01_Email_RE_olo_4605707_Bickersgracht_201-1.png,9,1,1,7.4121574669130155,black
+..\datasets\test\0516. RE Mails aan de wethouder (Dijksma)_ocr-1.png,13,0,1,9.976446156720552,black
+..\datasets\test\0516. RE Mails aan de wethouder (Dijksma)_ocr-2.png,10,1,1,8.453728037729151,black
+..\datasets\test\0527-1.png,18,0,0,15.19280322239958,black
+..\datasets\test\0680. RE OD - toezicht bouw en woningtoezicht - Grimburgwal(1)_ocr-1.png,34,0,1,27.774230759060146,black
+..\datasets\test\0680. RE OD - toezicht bouw en woningtoezicht - Grimburgwal(1)_ocr-3.png,29,1,1,23.704263570936675,black
+..\datasets\test\0680. RE OD - toezicht bouw en woningtoezicht - Grimburgwal(1)_ocr-4.png,25,1,1,20.998189173358803,black
+..\datasets\test\0680. RE OD - toezicht bouw en woningtoezicht - Grimburgwal(1)_ocr-6.png,2,0,0,1.4598557742346974,black
+..\datasets\test\10. Verslag_Staf_Saskia_Groenewoud_1_april_2019 zonder markering-1.png,22,0,0,17.908398466087018,black
+..\datasets\test\10. Verslag_Staf_Saskia_Groenewoud_1_april_2019 zonder markering-3.png,38,1,2,30.98435592058295,black
+..\datasets\test\122. overleg over Overlast en andere zaken-1.png,44,0,0,34.43793864938632,black
+..\datasets\test\122. overleg over Overlast en andere zaken-3.png,16,0,0,12.815473364935816,black
+..\datasets\test\127. RE VVR Brussel-1.png,14,0,0,11.728792597603555,black
+..\datasets\test\130. mail 14-03-2016 uitbouw_Geredigeerd-1.png,17,0,1,13.986771260060264,black
+..\datasets\test\19._overleg_4_over_afhandeling-email-2.png,34,1,1,27.759198024879797,black
+..\datasets\test\19._overleg_4_over_afhandeling-email-3.png,13,1,1,10.335206874313478,black
+..\datasets\test\20150508-2028-mail-lezing-aan-hopex_geredigeerd-1.png,13,1,1,11.051679425613306,black
+..\datasets\test\20150615-1726-inzake-media-verz-int-beraad_geredi-1.png,16,3,4,12.958220407382537,black
+..\datasets\test\20180321_bijlage_1_bij_agenda_stuurgroep_conceptverslag_stuurgroep_13122017-1.png,22,1,1,17.696752864911637,black
+..\datasets\test\2019-12-20_wob-verzoek_erfpacht_telegraaf_geredigeerd-5.png,3,0,0,2.2946077336383084,black
+..\datasets\test\20201112_notulen_overleg_Provincie_Staatsbosbeheer_docx43665056_3181b951cf-2.png,14,0,1,11.022682209537306,black
+..\datasets\test\2021-03-09_FW_Annotatie_Evenementen-1.png,12,0,1,8.865804532416146,black
+..\datasets\test\292. RE_ te plannen afspraak wethoud met vertegen_-2.png,42,1,1,33.866003660669975,black
+..\datasets\test\34_Geredigeerd-1.png,21,0,0,17.519476985608062,black
+..\datasets\test\34_Geredigeerd-2.png,3,2,2,2.3744102965573983,black
+..\datasets\test\462._Bijlage_bij_nr._463-3.png,20,1,1,16.597720954007368,black
+..\datasets\test\462._Bijlage_bij_nr._463-4.png,12,1,1,9.733108760763427,black
+..\datasets\test\48._RE_Ter_correctie_-_Nieuwsbrief_nr._2_Gebruik_van_code_2-3.png,37,2,1,29.184291797824745,gray
+..\datasets\test\521. RE_ De Nieuwe Meervaart 17-10 -1.png,23,1,1,18.271198880440732,black
+..\datasets\test\5_20171011_verslag_-_projectgroep_gemeente_fca_17_07_geanonimiseerd-3.png,12,0,1,9.599445311976016,black
+..\datasets\test\68.b bericht over afspraak afstemming-1.png,33,3,1,26.37082357755095,black
+..\datasets\test\68.c bericht over afspraak afstemming-1.png,26,1,1,21.42622892703013,black
+..\datasets\test\751._FW_Stukken_voor_wethouderoverleg_15_januari-1.png,24,1,0,20.021271266315345,black
+..\datasets\test\773. RE_ Flap college B&W de Meervaart 2_Geredigeerd-1.png,32,3,2,26.72779429154663,black
+..\datasets\test\89 FW_ Fietsparkeervoorziening Lijnbaansgracht - Orderbevestiging_2 -1.png,14,0,0,11.187144939583519,black
+..\datasets\test\89 FW_ Fietsparkeervoorziening Lijnbaansgracht - Orderbevestiging_2 -2.png,15,0,0,12.199697162098008,black
+..\datasets\test\89 FW_ Fietsparkeervoorziening Lijnbaansgracht - Orderbevestiging_2 -3.png,13,0,0,10.191785004069779,black
+..\datasets\test\89 FW_ Fietsparkeervoorziening Lijnbaansgracht - Orderbevestiging_2 -6.png,15,1,1,11.981068487514838,black
+..\datasets\test\89 FW_ Fietsparkeervoorziening Lijnbaansgracht - Orderbevestiging_2 -7.png,15,0,0,12.278295306316524,black
+..\datasets\test\944. korte terugkoppeling sessie team GO_Geredigeerd-1.png,16,0,0,13.364477329265648,black
+..\datasets\test\Afschift besluit Wob-verzoek-10.png,1,0,0,0.8600809170600134,black
+..\datasets\test\Afschift besluit Wob-verzoek-4.png,1,0,0,0.8151621106166561,black
+..\datasets\test\Afschift besluit Wob-verzoek-6.png,2,0,1,1.8575182440880909,black
+..\datasets\test\Afschift besluit Wob-verzoek-7.png,1,0,0,0.8320026071370377,black
+..\datasets\test\Beantwoording wob-verzoek communicatie tussen PNH en gem. Heemstede inzake Cruquiusbrug Heemstede-3.png,4,0,0,3.161449913128127,gray
+..\datasets\test\beslisnota-bij-geannoteerde-agenda-formele-energieraad-28-03-1.png,17,1,3,12.302952236575948,gray
+..\datasets\test\Beslissing-op-Wob-verzoek-inzake-subsidieaanvraag-Waalse-Water.html__concatenated-page3.png,6,2,1,4.768245335957447,black
+..\datasets\test\Beslissing-op-Wob-verzoek-inzake-subsidieaanvraag-Waalse-Water.html__concatenated-page33.png,1,0,0,0.9536678445229682,black
+..\datasets\test\Beslissing-op-Wob-verzoek-inzake-subsidieaanvraag-Waalse-Water.html__concatenated-page40.png,7,1,1,6.174147702530021,black
+..\datasets\test\BESLUIT_Beslissing Stiath 060423_a_page001-001.png,5,0,0,4.374189348275452,border
+..\datasets\test\BESLUIT_Beslissing Stiath 060423_b_page024-001.png,1,0,0,0.9228034535297105,border
+..\datasets\test\Bestanden_18724268-3.png,4,0,1,3.5022133131817936,black
+..\datasets\test\bijlage 1 bij besluit op wob-verzoek over film de oost-1.png,11,1,2,8.501187793387238,black
+..\datasets\test\bijlage 1 bij besluit op wob-verzoek over film de oost-15.png,2,0,1,1.2126417225148711,black
+..\datasets\test\bijlage 1 bij besluit op wob-verzoek over film de oost-9.png,17,0,0,14.180549773154096,black
+..\datasets\test\Bijlage-1.png,3,2,1,2.217299133144844,black
+..\datasets\test\Bijlage-3.png,2,1,1,1.790811125009073,black
+..\datasets\test\Bijlage-9.png,4,0,0,2.993072244758445,black
+..\datasets\test\bijlage-beslisnota-s-mirt-overzicht-2023-deltaprogramma-2023-en-geactualiseerde-spelregels-van-het-mirt-2.png,0,0,2,0,gray
+..\datasets\test\bijlage-beslisnota-s-mirt-overzicht-2023-deltaprogramma-2023-en-geactualiseerde-spelregels-van-het-mirt-4.png,0,0,1,0,gray
+..\datasets\test\bijlage-beslisnota-s-mirt-overzicht-2023-deltaprogramma-2023-en-geactualiseerde-spelregels-van-het-mirt-6.png,0,0,2,0,gray
+..\datasets\test\Bijlagen 2 bij Besluit op Woo-verzoek over uitvoering geven door de Staat aan het vonnis van de rechtbank van 14 april 2021-13.png,53,2,3,43.16544102292468,color
+..\datasets\test\Bijlagen 2 bij Besluit op Woo-verzoek over uitvoering geven door de Staat aan het vonnis van de rechtbank van 14 april 2021-16.png,44,0,1,36.09892915777646,color
+..\datasets\test\Bijlagen 2 bij Besluit op Woo-verzoek over uitvoering geven door de Staat aan het vonnis van de rechtbank van 14 april 2021-2.png,20,0,1,16.304930499237816,color
+..\datasets\test\Bijlagen 2 bij Besluit op Woo-verzoek over uitvoering geven door de Staat aan het vonnis van de rechtbank van 14 april 2021-20.png,26,2,1,21.555352502718264,color
+..\datasets\test\Bijlagen 2 bij Besluit op Woo-verzoek over uitvoering geven door de Staat aan het vonnis van de rechtbank van 14 april 2021-26.png,37,5,2,30.765084912234457,color
+..\datasets\test\Bijlagen 2 bij Besluit op Woo-verzoek over uitvoering geven door de Staat aan het vonnis van de rechtbank van 14 april 2021-30.png,40,1,2,32.54734899767955,color
+..\datasets\test\Bijlagen 2 bij Besluit op Woo-verzoek over uitvoering geven door de Staat aan het vonnis van de rechtbank van 14 april 2021-31.png,18,3,1,14.425941739492186,color
+..\datasets\test\Bijlagen 2 bij Besluit op Woo-verzoek over uitvoering geven door de Staat aan het vonnis van de rechtbank van 14 april 2021-4.png,38,0,0,30.37681826515199,color
+..\datasets\test\Bijlagen 2 bij Besluit op Woo-verzoek over uitvoering geven door de Staat aan het vonnis van de rechtbank van 14 april 2021-8.png,10,0,0,8.901825154836311,color
+..\datasets\test\Bijlagen 2 bij Besluit op Woo-verzoek over uitvoering geven door de Staat aan het vonnis van de rechtbank van 14 april 2021_page003-001.png,23,0,0,19.448958717299252,color
+..\datasets\test\Bijlagen 2 bij Besluit op Woo-verzoek over uitvoering geven door de Staat aan het vonnis van de rechtbank van 14 april 2021_page016-001.png,30,1,1,25.276305439212177,color
+..\datasets\test\Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-102.png,3,1,2,2.364069776110566,gray
+..\datasets\test\Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-106.png,2,0,0,1.4744563230984462,gray
+..\datasets\test\Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-109.png,13,0,1,11.254951878809498,gray
+..\datasets\test\Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-110.png,11,1,1,8.740343413910495,gray
+..\datasets\test\Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-113.png,7,0,0,5.204714530850853,gray
+..\datasets\test\Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-114.png,1,0,0,0.8875821515046697,gray
+..\datasets\test\Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-127.png,9,0,0,7.840889124176277,gray
+..\datasets\test\Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-131.png,1,0,0,0.925940725940726,gray
+..\datasets\test\Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-134.png,1,0,0,0.9349804941482445,gray
+..\datasets\test\Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-137.png,1,0,0,0.8518734982791091,gray
+..\datasets\test\Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-142.png,1,0,0,0.9146067415730337,gray
+..\datasets\test\Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-146.png,1,0,0,0.8292634372926344,gray
+..\datasets\test\Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-147.png,1,0,0,0.8670472036942022,gray
+..\datasets\test\Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-148.png,1,0,0,0.9351851851851852,gray
+..\datasets\test\Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-149.png,1,0,0,0.8819773429454171,gray
+..\datasets\test\Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-151.png,1,0,0,0.9231095106968863,gray
+..\datasets\test\Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-153.png,1,0,0,0.8469521725539231,gray
+..\datasets\test\Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-154.png,1,0,0,0.7547817848048795,gray
+..\datasets\test\Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-157.png,1,0,0,0.8960871919848362,gray
+..\datasets\test\Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-158.png,1,0,0,0.7863605671843349,gray
+..\datasets\test\Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-16.png,0,1,2,0,gray
+..\datasets\test\Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-160.png,1,0,0,0.7778818022235225,gray
+..\datasets\test\Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-161.png,1,0,0,0.8817436905932481,gray
+..\datasets\test\Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-165.png,1,0,0,0.8963125958525038,gray
+..\datasets\test\Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-18.png,2,1,0,1.6790876498027512,gray
+..\datasets\test\Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-197.png,10,0,1,8.259760655882634,gray
+..\datasets\test\Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-2.png,3,1,0,2.1980985840822593,gray
+..\datasets\test\Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-201.png,7,0,1,5.6231307095997805,gray
+..\datasets\test\Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-202.png,7,0,3,6.004047391743574,gray
+..\datasets\test\Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-206.png,1,0,0,0.9161127956673337,gray
+..\datasets\test\Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-211.png,9,0,0,7.534028627982901,gray
+..\datasets\test\Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-215.png,4,0,1,3.1054046568550016,gray
+..\datasets\test\Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-22.png,1,0,0,0.8392140291569828,gray
+..\datasets\test\Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-221.png,2,1,2,1.6188484173596676,gray
+..\datasets\test\Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-228.png,3,1,1,2.4555507293355654,gray
+..\datasets\test\Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-230.png,3,0,0,2.4361007985719403,gray
+..\datasets\test\Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-240.png,1,0,0,0.9416824359194907,gray
+..\datasets\test\Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-25.png,19,1,1,15.670350790397992,gray
+..\datasets\test\Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-3.png,10,1,9,7.963687009855016,gray
+..\datasets\test\Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-33.png,5,0,2,4.270231468080432,gray
+..\datasets\test\Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-36.png,11,0,1,9.331937776909246,gray
+..\datasets\test\Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-39.png,2,0,2,1.5320088388760489,gray
+..\datasets\test\Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-5.png,15,0,0,12.679720016946378,gray
+..\datasets\test\Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-50.png,3,0,0,2.277878845339348,gray
+..\datasets\test\Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-72.png,5,0,0,4.243352933145658,gray
+..\datasets\test\Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-74.png,14,0,0,11.956546407076932,gray
+..\datasets\test\Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-75.png,1,0,0,0.85,gray
+..\datasets\test\Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-79.png,1,0,0,0.7867285636264336,gray
+..\datasets\test\Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-82.png,25,1,1,21.30507493204411,gray
+..\datasets\test\Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-88.png,5,1,0,4.144544973577465,gray
+..\datasets\test\Bijlagen bij besluit Woo-verzoek over verantwoord medicijngebruik-92.png,13,0,0,11.270958151203752,gray
+..\datasets\test\Bijlagen deel 2 bij Woo-besluit bijverdiensten bestuurders semipublieke sector _WNT_-12.png,18,1,1,14.448824953378079,border
+..\datasets\test\Bijlagen deel 2 bij Woo-besluit bijverdiensten bestuurders semipublieke sector _WNT_-14.png,3,1,1,2.49657804046182,gray
+..\datasets\test\Bijlagen deel 2 bij Woo-besluit bijverdiensten bestuurders semipublieke sector _WNT_-16.png,69,0,0,55.96958192115295,color
+..\datasets\test\Bijlagen deel 2 bij Woo-besluit bijverdiensten bestuurders semipublieke sector _WNT_-3.png,7,1,1,6.016010985860943,gray
+..\datasets\test\Bijlagen deel 2 bij Woo-besluit bijverdiensten bestuurders semipublieke sector _WNT_-7.png,1,0,0,0.9856737331013334,color
+..\datasets\test\Bijlagen deel 2 bij Woo-besluit bijverdiensten bestuurders semipublieke sector _WNT_page015-001.png,18,1,1,15.34762349162704,border
+..\datasets\test\Binder OneLove-12.png,7,0,1,6.216743544783898,border
+..\datasets\test\Binder OneLove-5.png,6,0,0,5.3681275583967345,border
+..\datasets\test\Binder OneLove_page002-001.png,4,0,0,3.12677336520987,border
+..\datasets\test\Binder OneLove_page005-001.png,4,1,1,3.5707996273093956,border
+..\datasets\test\Binder OneLove_page131-001.png,6,1,0,5.310870507376969,border
+..\datasets\test\Binder OneLove_page132-001.png,2,1,1,1.7493531702859682,border
+..\datasets\test\Binder OneLove_page172-001.png,8,1,1,7.099963831115583,border
+..\datasets\test\c-sms-berichten-mp-sg-11.png,3,0,0,2.30976666061901,gray
+..\datasets\test\c-sms-berichten-mp-sg-13.png,1,0,0,0.906686445184584,gray
+..\datasets\test\c-sms-berichten-mp-sg-14.png,1,0,1,0.8809542764641881,gray
+..\datasets\test\c-sms-berichten-mp-sg-15.png,4,1,1,3.381450314454964,gray
+..\datasets\test\c-sms-berichten-mp-sg-2.png,2,0,1,1.4366445647265706,gray
+..\datasets\test\c-sms-berichten-mp-sg-26.png,1,0,0,0.8706557341012507,gray
+..\datasets\test\c-sms-berichten-mp-sg-31.png,5,0,0,4.150225415002165,gray
+..\datasets\test\c-sms-berichten-mp-sg-32.png,6,0,0,5.12729473289875,gray
+..\datasets\test\c-sms-berichten-mp-sg-33.png,1,0,0,0.9420744538393848,gray
+..\datasets\test\c-sms-berichten-mp-sg-42.png,1,0,0,0.9130999845804789,gray
+..\datasets\test\c-sms-berichten-mp-sg-7.png,2,1,2,1.6336081873171544,gray
+..\datasets\test\c-sms-berichten-mp-sg-9.png,2,0,0,1.4254594550599995,gray
+..\datasets\test\Documenten bij besluit op Wob-verzoek over via Koninklijk Besluit verlopen benoemingen binnen Centraal Tuchtcollege voor de Gezondheidszorg-6.png,3,0,0,2.4250808542047837,gray
+..\datasets\test\Documenten bij herziene beslissing op bezwaar Wob-besluit over NGO-schepen op Middellandse Zee-10.png,10,1,1,8.403574736932223,color
+..\datasets\test\Documenten bij herziene beslissing op bezwaar Wob-besluit over NGO-schepen op Middellandse Zee-7.png,3,0,0,2.5084455941792547,color
+..\datasets\test\Documenten bij herziene beslissing op bezwaar Wob-besluit over NGO-schepen op Middellandse Zee-8.png,5,0,1,4.153798160321518,color
+..\datasets\test\Documenten bij herziene beslissing op bezwaar Wob-besluit over NGO-schepen op Middellandse Zee-9.png,8,0,1,7.048225763579803,color
+..\datasets\test\Documenten bij herziene beslissing op bezwaar Wob-besluit over NGO-schepen op Middellandse Zee_page008-001.png,3,0,0,2.4861944498026674,color
+..\datasets\test\Documenten bij herziene beslissing op bezwaar Wob-besluit over NGO-schepen op Middellandse Zee_page012-001.png,11,0,1,8.948073341273718,color
+..\datasets\test\Documenten bij Woo-besluit over correspondentie tussen besturen bij totstandkoming rapport Perspectief voor de Gnephoek eo-1.png,16,1,2,13.454230792912977,color
+..\datasets\test\Documenten bij Woo-besluit over correspondentie tussen besturen bij totstandkoming rapport Perspectief voor de Gnephoek eo-12.png,17,1,4,13.82654554184757,color
+..\datasets\test\Documenten bij Woo-besluit over correspondentie tussen besturen bij totstandkoming rapport Perspectief voor de Gnephoek eo-15.png,1,0,0,0.9387270627486206,gray
+..\datasets\test\Documenten bij Woo-besluit over correspondentie tussen besturen bij totstandkoming rapport Perspectief voor de Gnephoek eo-16.png,13,0,1,10.964580047211571,color
+..\datasets\test\Documenten bij Woo-besluit over correspondentie tussen besturen bij totstandkoming rapport Perspectief voor de Gnephoek eo-24.png,10,0,2,8.3910867626009,border
+..\datasets\test\Documenten bij Woo-besluit over correspondentie tussen besturen bij totstandkoming rapport Perspectief voor de Gnephoek eo-3.png,7,1,1,5.742824403898984,color
+..\datasets\test\Documenten bij Woo-besluit over correspondentie tussen besturen bij totstandkoming rapport Perspectief voor de Gnephoek eo-9.png,17,1,3,14.591559844934292,color
+..\datasets\test\Documenten bij Woo-besluit over rapporten The Hague Centre for Strategic Studies _HCSS_-11.png,4,0,0,3.2006640030945888,border
+..\datasets\test\Documenten bij Woo-besluit over rapporten The Hague Centre for Strategic Studies _HCSS_-3.png,6,5,0,5.075459045825226,border
+..\datasets\test\Documenten bij Woo-besluit over rapporten The Hague Centre for Strategic Studies _HCSS_page010-001.png,1,1,1,0.9092328713644349,border
+..\datasets\test\Documenten bij Woo-besluit over rapporten The Hague Centre for Strategic Studies _HCSS_page014-001.png,1,0,0,0.9895431809261179,border
+..\datasets\test\documenten-180-226-10.png,8,1,0,6.531073355540626,gray
+..\datasets\test\documenten-180-226-22.png,2,0,6,1.8080921572397628,gray
+..\datasets\test\documenten-180-226-23.png,1,0,0,0.9512127523102872,gray
+..\datasets\test\documenten-180-226-25.png,7,1,5,5.719004509336786,gray
+..\datasets\test\documenten-180-226-30.png,5,0,2,4.034188159125707,gray
+..\datasets\test\documenten-180-226-37.png,6,0,1,5.0862242880193955,gray
+..\datasets\test\documenten-180-226-41.png,3,2,1,2.231431022353494,gray
+..\datasets\test\documenten-180-226-45.png,22,1,0,18.11546259608099,gray
+..\datasets\test\documenten-180-226-48.png,27,1,1,22.896688354486507,gray
+..\datasets\test\documenten-180-226-5.png,0,2,3,0,gray
+..\datasets\test\documenten-180-226-51.png,10,6,2,7.813318309283081,gray
+..\datasets\test\documenten-180-226-61.png,47,1,1,39.16016536837176,gray
+..\datasets\test\documenten-180-226-62.png,28,0,0,22.878028960038343,gray
+..\datasets\test\documenten-180-226-70.png,22,0,1,18.004565544273007,gray
+..\datasets\test\documenten-180-226-71.png,22,2,1,17.895601480268763,gray
+..\datasets\test\documenten-180-226-73.png,3,0,1,2.0766454570965736,gray
+..\datasets\test\documenten-180-226-77.png,19,1,2,14.234928658280772,gray
+..\datasets\test\documenten-180-226-79.png,16,0,2,12.814039549735664,gray
+..\datasets\test\documenten-180-226-81.png,33,1,1,26.93894980294457,gray
+..\datasets\test\documenten-180-226-85.png,8,0,0,6.650085191176144,gray
+..\datasets\test\documenten-180-226-88.png,6,1,4,4.500376179199219,gray
+..\datasets\test\documenten-180-226-90.png,5,0,11,3.626363020316822,gray
+..\datasets\test\doucmenten deel 5-13.png,4,1,1,3.5278417577803864,black
+..\datasets\test\doucmenten deel 5-2.png,13,2,2,10.321785832014577,black
+..\datasets\test\doucmenten deel 5-21.png,19,0,1,15.96506055675547,black
+..\datasets\test\doucmenten deel 5-29.png,21,6,3,17.218068828121584,black
+..\datasets\test\doucmenten deel 5-3.png,21,5,3,17.803474880360472,black
+..\datasets\test\doucmenten deel 5-33.png,7,1,2,6.1682846768295505,black
+..\datasets\test\doucmenten deel 5-37.png,13,1,1,11.464220479617921,black
+..\datasets\test\doucmenten deel 5-38.png,12,0,1,10.202311310363221,black
+..\datasets\test\doucmenten deel 5-39.png,7,1,1,6.097715967590734,black
+..\datasets\test\doucmenten deel 5-4.png,21,5,0,17.576850833816504,black
+..\datasets\test\doucmenten deel 5-41.png,9,1,0,7.499714627102478,black
+..\datasets\test\doucmenten deel 5-42.png,14,1,1,11.319414387629337,black
+..\datasets\test\doucmenten deel 5-43.png,15,1,1,13.050322287999427,black
+..\datasets\test\doucmenten deel 5-45.png,17,0,0,13.629218530488867,black
+..\datasets\test\doucmenten deel 5-46.png,10,1,1,8.646900902274687,black
+..\datasets\test\doucmenten deel 5-47.png,10,2,1,8.462651860296637,black
+..\datasets\test\doucmenten deel 5-49.png,13,0,1,10.572347130944033,black
+..\datasets\test\doucmenten deel 5-50.png,14,1,1,12.035773554681924,black
+..\datasets\test\doucmenten deel 5-53.png,4,0,2,3.234297959108262,black
+..\datasets\test\doucmenten deel 5-57.png,3,1,2,2.3737592822876246,black
+..\datasets\test\doucmenten deel 5-66.png,15,0,1,12.125232341991786,black
+..\datasets\test\doucmenten deel 5-7.png,4,2,0,3.360103883786795,black
+..\datasets\test\doucmenten deel 5-73.png,8,0,0,6.389355826055876,black
+..\datasets\test\doucmenten deel 5-9.png,12,1,1,10.037102532930582,black
+..\datasets\test\Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-160.png,3,5,1,2.239407839262852,gray
+..\datasets\test\Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-161.png,13,2,2,10.892721357866273,gray
+..\datasets\test\Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-192.png,11,0,0,9.29809707226067,gray
+..\datasets\test\Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-41.png,8,1,1,7.090067279004803,gray
+..\datasets\test\Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-45.png,19,3,3,15.262018550122205,gray
+..\datasets\test\Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-83.png,2,1,1,1.38736640889669,gray
+..\datasets\test\Gelakte stukken Wob-verzoek omgevingsproces Ternaard 2e deel-93.png,1,2,1,0.900893102500687,gray
+..\datasets\test\heel_moeilijk-1.png,5,1,1,4.068517722527067,color
+..\datasets\test\IMAGES_00000_00000_14175046-1.png,40,0,1,32.30581803914314,black
+..\datasets\test\IMAGES_00000_00000_14175046-2-1.png,40,0,1,32.015184584011756,black
+..\datasets\test\K37089 Wildeman Storage openbaar_Bestanden_15275511-4.png,2,1,0,1.436442946732981,black
+..\datasets\test\Mail concept raadsbrief 1-10-2020 pdf-3.png,3,1,1,2.489516050271557,black
+..\datasets\test\nl.mnre1058.2i.2022.1.misc.9-17.png,76,2,4,62.95994326077889,border
+..\datasets\test\nl.mnre1058.2i.2022.1.misc.9-31.png,9,1,7,6.638765827499939,border
+..\datasets\test\nl.mnre1058.2i.2022.1.misc.9-42.png,10,1,8,7.324068731528563,border
+..\datasets\test\nl.mnre1058.2i.2022.1.misc.9-46.png,32,2,2,26.813459746280255,border
+..\datasets\test\nl.mnre1058.2i.2022.1.misc.9-5.png,15,0,0,12.588417981504707,border
+..\datasets\test\nl.mnre1058.2i.2022.1.misc.9-50.png,0,0,1,0,gray
+..\datasets\test\nl.mnre1058.2i.2022.1.misc.9-51.png,0,0,1,0,gray
+..\datasets\test\nl.mnre1058.2i.2022.1.misc.9-52.png,65,3,2,53.05392195759599,border
+..\datasets\test\nl.mnre1058.2i.2022.1.misc.9-54.png,23,1,4,19.380532328610318,border
+..\datasets\test\nl.mnre1058.2i.2022.1.misc.9-55.png,9,0,0,7.864828809862006,border
+..\datasets\test\nl.mnre1058.2i.2022.1.misc.9-56.png,27,2,0,21.457125320946563,border
+..\datasets\test\nl.mnre1058.2i.2022.1.misc.9-57.png,86,1,10,70.85650010590588,border
+..\datasets\test\Ordner1+doc+1-50-1.png,35,0,0,29.932522085533982,border
+..\datasets\test\Ordner1+doc+1-50-12.png,1,0,0,0.8249965550502962,border
+..\datasets\test\Ordner1+doc+1-50-16.png,15,1,0,11.99714839906936,border
+..\datasets\test\Ordner1+doc+1-50-18.png,8,1,2,6.665629547573259,border
+..\datasets\test\Ordner1+doc+1-50-19.png,1,1,2,0.8834006826474166,border
+..\datasets\test\Ordner1+doc+1-50-23.png,5,0,1,3.8380076794715157,border
+..\datasets\test\Ordner1+doc+1-50-25.png,6,0,2,5.052923523933363,border
+..\datasets\test\Ordner1+doc+1-50-27.png,5,0,0,3.8086776903746644,border
+..\datasets\test\Ordner1+doc+1-50-30.png,27,0,7,22.487487481866594,border
+..\datasets\test\Ordner1+doc+1-50-4.png,29,0,0,24.743439768236293,border
+..\datasets\test\Ordner1+doc+1-50-6.png,4,1,0,3.090991949028244,border
+..\datasets\test\Ordner2+doc+51-100-12.png,4,0,0,3.2660318004139195,border
+..\datasets\test\Ordner2+doc+51-100-19.png,5,0,0,4.080619048887133,border
+..\datasets\test\Ordner2+doc+51-100-2.png,5,0,1,4.125351793560204,border
+..\datasets\test\Ordner2+doc+51-100-25.png,5,0,0,3.8592121164591933,border
+..\datasets\test\Ordner2+doc+51-100-28.png,5,0,0,3.899455288602533,border
+..\datasets\test\Ordner2+doc+51-100-29.png,5,0,1,3.945756417158079,border
+..\datasets\test\Ordner2+doc+51-100-30.png,5,0,0,3.881567747064163,border
+..\datasets\test\Ordner2+doc+51-100-4.png,4,1,1,3.3635491819914543,border
+..\datasets\test\RE_Vervolgonderzoek_Windenergie_rond_de_Veluwe_gegevens_t_b_v_doorrekening_buca_s_i_r_t_stilstand_msg_34663024b1-4.png,4,1,1,3.1039521063930318,black
+..\datasets\test\Wob-besluit-inzake-opkoopregeling-kalverhouderij-2021-010918.html__concatenated-page2.png,1,4,1,0.7679684254258413,black
+..\datasets\test\Wob-besluit-inzake-opkoopregeling-kalverhouderij-2021-010918.html__concatenated-page4.png,2,0,1,1.9300041459222363,black
+..\datasets\test\Wob-besluit-Onthaasten-Arrangementen-B-V-zaaknummer-2021-011108.html__concatenated-page1.png,4,0,0,3.0614222174780577,black
+..\datasets\test\Wob-besluit-Project-No-Waste-2021-011855__concatenated-page-006.png,3,1,1,2.5189419745847883,black
+..\datasets\test\Wob-besluit-Project-No-Waste-2021-011855__concatenated-page-011.png,4,3,1,3.264213282022223,black
+..\datasets\test\wob-verzoek_omgevingsvergunning_terrein_nieuwendammerdijk_538-963594-page1.png,3,2,1,2.4944173239013177,gray
+..\datasets\test\wob-verzoek_ontstaansgeschiedenis_ijplein_voormalig_adm-terrein-963340-page0.png,1,0,0,0.9699523987409893,gray
+..\datasets\test\wob-verzoek_originele_bouwtekeningen_hilversumstraat_46_48_52_54_en_56-963319-page0.png,5,0,1,4.017746021451814,gray
+..\datasets\test\wob-verzoek_uitvoeringsrichtlijn_kruimelgevallen-964248-page0.png,4,0,0,3.305971926315702,black
+..\datasets\test\wob-verzoek_vmr-land_voor_publicatie-986643-page0.png,1,0,0,0.9239050827596309,black
+..\datasets\test\wob-verzoek_voor_publicatie-963263-page0.png,8,0,1,6.441867980542711,black
+..\datasets\test\wob-verzoek_wieringa_tweede_bloemdwarsstraat_2-990937-page1.png,1,0,0,0.9613200666805585,black
+..\datasets\test\wob_verzoek_postzegelpark-969443-page0.png,24,0,1,20.517325647209663,black
+..\datasets\test\wob_verzoek_stukken_hondenverbod_kop_van_jut-964275-page1.png,47,1,1,39.17488995910745,black
+..\datasets\test\wob_verzoek_uitbreiding_terras-970022-page1.png,2,0,0,1.238861882987848,black
+..\datasets\test\woo-kennisgroepstandpunten-formeel-recht-deelbesluit-2-documenten_page009-001.png,3,0,0,2.442009129119431,border
+..\datasets\test\woo-niet-evacueren-medewerkers-atvet-documenten-2.png,1,0,1,0.9730518381767163,border
+..\datasets\test\woo-niet-evacueren-medewerkers-atvet-documenten-5.png,30,0,1,24.389663631893914,border
+..\datasets\test\woo-niet-evacueren-medewerkers-atvet-documenten-7.png,79,0,18,65.18485969092197,border
+..\datasets\test\woo-niet-evacueren-medewerkers-atvet-documenten-8.png,37,0,1,30.65692820233979,border
+..\datasets\test\woo-niet-evacueren-medewerkers-atvet-documenten-9.png,57,0,5,47.511647852707355,border
+..\datasets\test\woo-voorbereiding-toespraak-14-december-2020-14.png,1,1,1,0.8842736817814699,gray
