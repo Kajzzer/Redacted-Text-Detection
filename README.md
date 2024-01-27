@@ -27,7 +27,35 @@ There are the following folders in the structure:
 
 ## Installation
 
-@todo add installation information here
+To be able to run the notebooks in this repository, follow these steps:
+
+1. Install Tesseract:
+    - Visit the [Tesseract website](https://tesseract-ocr.github.io/tessdoc/Installation.html) and follow the installation instructions provided for your specific OS.
+
+2. Install Anaconda: 
+
+   - Visit the [Anaconda website](https://www.anaconda.com/products/individual) and download the installer for your operating system.
+   - Follow the installation instructions provided for your specific OS.
+
+3. Clone this repository:
+```
+git clone https://github.com/Kajzzer/Redacted-Text-Detection
+```
+4. Navigate to the project directory:
+```
+cd Redacted-Text-Detection
+```
+5. Create a new Anaconda environment:
+
+   Open a terminal (or Anaconda Prompt on Windows) and run the following command, which installs the requirements according to the environment file we provide:
+   ```
+   conda env create -f environment.yml
+   ```
+   
+6. Activate the environment:
+  ```
+  conda activate redacted-text-detection
+  ```
 
 ---
 
